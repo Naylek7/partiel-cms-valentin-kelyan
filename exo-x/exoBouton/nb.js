@@ -4,8 +4,6 @@ let nbCliques = document.getElementById('nbCliques');
 
 let increment = 0
 
-let chaise = []
-
 sommeCliques.addEventListener ('click', function(){
 
     let clique = document.createElement('div');
