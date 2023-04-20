@@ -1,0 +1,23 @@
+exo 1 : 
+
+Un CMS est un logiciel qui simplifie la gestion de contenu pour un site web. 
+Cela permet à des personnes qui n'ont pas nécessairement de compétences techniques de créer, 
+modifier et publier facilement du contenu en ligne. Les CMS offrent une interface conviviale 
+et intuitive pour gérer le contenu et la mise en page du site.
+
+
+
+exo 7 : 
+
+Il existe plusieurs plugins pouvant modifier un thème : 
+- Elementor 
+- Divi 
+- Beaver
+- Templates
+
+
+exo 8 : 
+
+Le SQL est relationelle et peut donc créer des relations complexes entre 
+les données, tandis que le NO SQL n'est pas relationelle mais permet une gestion 
+efficace de données en grandes quantités. 

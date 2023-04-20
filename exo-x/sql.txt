@@ -1,0 +1,13 @@
+exo 4 : 
+
+SELECT * FROM Car WHERE brandId LIKE "%BMW"
+
+
+exo 5 : 
+
+SELECT firtName FROM User INNER JOIN Car ON id = ownerId WHERE color = 'red' ORDER BY firtName DESC
+
+
+exo 6 : 
+
+INSERT INTO Brand (brandLabel) VALUES ('Ferrari')
